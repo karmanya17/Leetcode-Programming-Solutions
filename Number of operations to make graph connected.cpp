@@ -34,9 +34,4 @@ public:
         }
         return c-1;
     }
-<<<<<<< HEAD
-
-=======
-    
->>>>>>> cef2ec14b6690d2e52718ee8b29fcab23d3b5410
 };
